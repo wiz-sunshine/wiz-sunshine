@@ -4,7 +4,7 @@ Sitio de **Wiz Sunshine**, el estudio de software de **Sol Soletti y Lucio Rojas
 
 **Sitio:** <https://vueltito.legios.com.ar/wiz-sunshine/>
 
-**Repositorio:** <https://github.com/Vueltito/wiz-sunshine>
+**Repositorio:** <https://github.com/wiz-sunshine/wiz-sunshine>
 
 ## Cómo funciona
 
