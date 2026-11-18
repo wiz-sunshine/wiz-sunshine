@@ -1,0 +1,14 @@
+{
+  "producto": "wiz-sunshine",
+  "nombre": "Sitio de Wiz Sunshine",
+  "tipo": "sitio",
+  "clientes": [],
+  "responsables": [
+    "sol",
+    "lucio"
+  ],
+  "sondeos": [
+    "https://vueltito.legios.com.ar/wiz-sunshine/"
+  ],
+  "metricas": {}
+}
